@@ -16,7 +16,7 @@
 	<body>
 		<h1>Fahrenheit / Celsius PHP Convertor</h1>
 		<form method="get">
-			Vul het aantal graden in: <input type="text" name="degrees" /><br />
+			Provide degrees!!: <input type="text" name="degrees" /><br />
 			<select name="conversion">
 				<option value="ctf">Celsius to Fahrenheit</option>
 				<option value="ftc">Fahrenheit to Celsius</option>
